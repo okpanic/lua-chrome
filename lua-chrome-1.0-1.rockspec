@@ -10,7 +10,7 @@ package = "lua-chrome"
     description = {
     summary = "wrapper for headless chrome-browser",
     detailed = "0",
-    homepage = "https://github.com/okpanic",
+    homepage = "https://github.com/okpanic/lua-chrome",
     license = "GPLv3"
     }
 

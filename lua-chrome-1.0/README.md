@@ -1,8 +1,9 @@
 Super basic wrapper for headless chrome.
 
-```lua
+First install chromium, and headless-chromium.
 
-chrome = require'chrome':new()
+```lua
+chrome = require'lua-chrome':new()
 
 --set path to chromium browser executable
 chrome.bin = "/usr/lib64/chromium-browser/chromium-browser" 
